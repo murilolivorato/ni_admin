@@ -1,0 +1,59 @@
+# FRONTEND
+/front/src/node_modules
+/front/src/public/hot
+/front/src/public/assets/arquivos
+/front/src/public/assets/temp
+/front/src/public/storage
+/front/src/storage/*.key
+/front/src/vendor
+/front/src/.env
+/front/src/.phpunit.result.cache
+/front/src/Homestead.json
+/front/src/Homestead.yaml
+/front/src/npm-debug.log
+/front/src/yarn-error.log
+/front/.idea
+/front/.vscode
+/front.DS_Store
+/front.thumbs.db
+/frontnode_modules
+/front# Quasar core related directories
+/front.quasar
+/front//distfront
+/front# Cordova related directories and files
+/front/src-cordova/node_modules
+/front/src-cordova/platforms
+/front/src-cordova/plugins
+/front/src-cordova//wwwfront
+/front# Capacitor related directories and files
+/front/src-capacitor/www
+/front/src-capacitor//node_modulesfront
+/front# BEX related directories and files
+/front/src-bex/www
+/front/src-bex/js//corefront
+/front/npm-debug.log*
+/front/yarn-debug.log*
+/front/yarn-error.log*
+../.idea
+*.suo
+*.ntvs*
+*.njsproj
+*./slnfront
+/front.env
+
+# BACKEND
+/backend/src/node_modules
+/backend/src/public/hot
+/backend/src/public/assets/arquivos
+/backend/src/public/assets/temp
+/backend/src/public/storage
+/backend/src/storage/*.key
+/backend/src/vendor
+/backend/src/.env
+/backend/src/.phpunit.result.cache
+/backend/src/Homestead.json
+/backend/src/Homestead.yaml
+/backend/src/npm-debug.log
+/backend/src/yarn-error.log
+/backend/.idea
+/backend/.vscode
