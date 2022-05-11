@@ -1,15 +1,4 @@
 #  ADMIN 
-# acesse o Admin Online
-### http://159.203.87.199/acesso-admin
-###usuario - nanoincub@nanoincub.com.br
-###senha - 123456
-
-# Vídeos
-## Admin -
-### https://www.youtube.com/watch?v=2oKK1m5ftPM
-## Último Trabalho -
-### https://www.youtube.com/watch?v=KcVDKh33Kgs
-
 
 ## Front End
 ### Instalação
@@ -61,4 +50,17 @@ localhost:8080
 ```bash
 localhost:8890
 ```
+
+### acesse o Admin Online
+#### http://159.203.87.199/acesso-admin
+####usuario - nanoincub@nanoincub.com.br
+#### senha - 123456
+
+### Vídeos
+#### Admin -
+#### https://www.youtube.com/watch?v=2oKK1m5ftPM
+### Último Trabalho -
+#### https://www.youtube.com/watch?v=KcVDKh33Kgs
+
+
 
